@@ -1,0 +1,18 @@
+/************* Start loading /*************/
+@keyframes orbit1 {
+  0% {
+    transform: rotatez(0deg);
+  }
+  100% {
+    transform: rotatez(360deg);
+  }
+}
+@keyframes orbit2 {
+  0% {
+    transform: rotatez(0deg);
+  }
+  100% {
+    transform: rotatez(-360deg);
+  }
+}
+/************* End loading /*************/
